@@ -20,12 +20,12 @@
         <p>👨‍🎓Cursei formado em Ciências da Computação.</p>
         <p>📕Realizando estudos e me atualizando em Data Science, Full Stack - Python, e Desenvolvimento Web.</p>
         <p>🧑‍💻Com conhecimento em SQL, .Net, C#, VB, VBA, Excel Avançado, HTML, CSS.</p>
-        <p>✅Até aqui diversas experiências que me auxiliaram a desenvolver o pensamento crítico, analítico, um perfil colaborativo e voltado extremamente a capacidade de entrega.</p>
+        <p>✅As experiências me auxiliaram a desenvolver meu perfil colaborativo voltado extremamente a capacidade de realizar as entregas.</p>
     </div><br>
 <p><b>Contatos:</b></p> 
 <p align="left">
-    <a href="https://www.linkedin.com/in/gilcelio-araujo-3039bbab/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:<yours>?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/gilcelio-araujo-3039bbab/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:<yours>?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <p>
 </body>
 </html>
