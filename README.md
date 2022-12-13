@@ -19,7 +19,7 @@
         <p>🧑‍💼Atuei por 24 anos na empresa responsável pelo transporte municipal de Fortaleza do estado do Ceará, iniciando minha carreira profissional, cheguei a ocupar as funções de Estagiario, Aux. Administrativo, Assistente Técnico, Chefe de Unidade e Analista de O&M (Análise de Sistemas).</p>
         <p>👨‍🎓Cursei formado em Ciências da Computação.</p>
         <p>📕Realizando estudos e me atualizando em Data Science, Full Stack - Python, e Desenvolvimento Web.</p>
-        <p>🧑‍💻Com conhecimento em SQL, .Net, C#, VB, VBA, Excel Avançado, HTML, CSS.</p>
+        <p>🧑‍💻Com conhecimento em SQL, .Net, C#, VB, VBA, Excel Avançado, HTML, CSS, Power BI.</p>
         <p>✅As experiências me auxiliaram a desenvolver meu perfil colaborativo voltado extremamente a capacidade de realizar as entregas.</p>
     </div><br>
 <p><b>Contatos:</b></p> 
